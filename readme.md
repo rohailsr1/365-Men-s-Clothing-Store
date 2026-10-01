@@ -19,23 +19,23 @@ This project analyzes the multi-year sales performance, operational efficiency, 
 The analysis is structured sequentially across 5 visual steps as defined in the project framework:
 
 ### 1️⃣ Visual 1: Multi-Year Revenue & Net Profit Trend (2019–2022)
-![Yearly Revenue & Net Profit Trend](Images/Visual1_Yearly_Trends.png)
+![Yearly Revenue & Net Profit Trend](Images/1.png)
 *Tracks annual performance trajectory, highlighting revenue stability across 2019–2022 and identifying annual margin peaks.*
 
 ### 2️⃣ Visual 2: Category & Product Performance Breakdown
-![Product Performance Analysis](Images/Visual2_Product_Performance.png)
+![Product Performance Analysis](Images/2.png)
 *Compares volume, total revenue, and profitability across T-Shirts, Hoodies, Sweaters, Jackets, and Socks.*
 
 ### 3️⃣ Visual 3: Geographic Revenue Distribution by City
-![Geographic Revenue Distribution](Images/Visual3_Geographic_Distribution.png)
+![Geographic Revenue Distribution](Images/3.png)
 *Maps market contribution across primary regional hubs (Vancouver, Burnaby, Surrey) and secondary expansion markets.*
 
 ### 4️⃣ Visual 4: Shipping Logistics & Order Volume Analysis
-![Shipping Logistics Analysis](Images/Visual4_Shipping_Logistics.png)
+![Shipping Logistics Analysis](Images/4.png)
 *Evaluates shipping fulfillment mix (Standard, Expedited, Nextday) and its revenue impact.*
 
 ### 5️⃣ Visual 5: Pricing, Discounting & Profitability Dynamics
-![Pricing & Margin Dynamics](Images/Visual5_Margin_Dynamics.png)
+![Pricing & Margin Dynamics](Images/5.png)
 *Analyzes effective discount impact on unit net profit and evaluates gross margin performance.*
 
 ---
